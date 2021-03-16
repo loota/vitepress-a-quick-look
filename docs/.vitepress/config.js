@@ -1,5 +1,5 @@
 module.exports = {
-    title: 'VitePress - A Quick Look',
+    title: 'VueJS Finland March Meetup',
     themeConfig: {
         sidebar: false
     }

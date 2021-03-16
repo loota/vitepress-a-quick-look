@@ -5,5 +5,6 @@
   "license": "MIT",
   "devDependencies": {
     "vitepress": "^0.12.2"
-  }
+  },
+  "repository": "https://github.com/loota/vitepress-a-quick-look.git"
 }
